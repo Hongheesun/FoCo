@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FoCo/static/css/main.b7679ac6.css",
+    "main.js": "/FoCo/static/js/main.4e7d3f14.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/FoCo/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/imgshawdow.png": "/FoCo/static/media/imgshawdow.09128c97c117b791fa22.png",
+    "index.html": "/FoCo/index.html",
+    "main.b7679ac6.css.map": "/FoCo/static/css/main.b7679ac6.css.map",
+    "main.4e7d3f14.js.map": "/FoCo/static/js/main.4e7d3f14.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/FoCo/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7679ac6.css",
+    "static/js/main.4e7d3f14.js"
+  ]
+}
